@@ -249,6 +249,23 @@
       ]
     },
     {
+      "Id": 38,
+      "Name": "Los Santos Field Trip",
+      "Author": {
+        "Name": "SK Yeatts"
+      },
+      "Description": "Trip around Los Santos fields.",
+      "Notes": "",
+      "Version": "21.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Gravel",
+        "Road"
+      ]
+    },
+    {
       "Id": 2,
       "Name": "Los Santos Hills",
       "Author": {
