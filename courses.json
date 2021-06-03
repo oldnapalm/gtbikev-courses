@@ -1,5 +1,5 @@
 {
-  "ListVersion": 21.0,
+  "ListVersion": 22.0,
   "CourseList": [
     {
       "Id": 1,
@@ -166,23 +166,6 @@
       ]
     },
     {
-      "Id": 18,
-      "Name": "Grapeseed",
-      "Author": {
-        "Name": "Matthias Urech"
-      },
-      "Description": "Fuel your next ride with a tour through the fields of Grapeseed.",
-      "Notes": "",
-      "Version": "19.0",
-      "Type": [
-        "bike",
-        "run"
-      ],
-      "Category": [
-        "Gravel"
-      ]
-    },
-    {
       "Id": 39,
       "Name": "Going Underground",
       "Author": {
@@ -197,6 +180,23 @@
       "Category": [
         "Gravel",
         "Road"
+      ]
+    },
+    {
+      "Id": 18,
+      "Name": "Grapeseed",
+      "Author": {
+        "Name": "Matthias Urech"
+      },
+      "Description": "Fuel your next ride with a tour through the fields of Grapeseed.",
+      "Notes": "",
+      "Version": "19.0",
+      "Type": [
+        "bike",
+        "run"
+      ],
+      "Category": [
+        "Gravel"
       ]
     },
     {
@@ -240,6 +240,22 @@
       "Description": "Figure 8 course through Los Santos hills & valleys.",
       "Notes": "",
       "Version": "18.0",
+      "Type": [
+        "bike"
+      ],
+      "Category": [
+        "Road"
+      ]
+    },
+    {
+      "Id": 40,
+      "Name": "Hilly 8",
+      "Author": {
+        "Name": "Cassio Davi"
+      },
+      "Description": "Figure 8 course around Los Santos hills.",
+      "Notes": "",
+      "Version": "22.0",
       "Type": [
         "bike"
       ],
