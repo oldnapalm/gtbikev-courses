@@ -20,6 +20,23 @@
       ]
     },
     {
+      "Id": 41,
+      "Name": "Cayo Perico",
+      "Author": {
+        "Name": "Cassio Davi"
+      },
+      "Description": "Gravel course in Cayo Perico island",
+      "Notes": "",
+      "Version": "22.0",
+      "Type": [
+        "bike",
+        "run"
+      ],
+      "Category": [
+        "Gravel"
+      ]
+    },
+    {
       "Id": 16,
       "Name": "Central 8",
       "Author": {
